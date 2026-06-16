@@ -1,9 +1,9 @@
 [project]
 name = "optical_app"
 authors = [
-    { name = "walid", email = "nachef.walid@gmail.com"}
+    { name = "OctoSolution", email = "nachef@gmail.com"}
 ]
-description = "Optical pos"
+description = "Optical App"
 requires-python = ">=3.14"
 readme = "README.md"
 dynamic = ["version"]

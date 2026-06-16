@@ -1,6 +1,6 @@
 ### Optical App
 
-Optical pos
+Optical App
 
 ### Installation
 

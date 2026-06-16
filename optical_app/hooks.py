@@ -1,8 +1,8 @@
 app_name = "optical_app"
 app_title = "Optical App"
-app_publisher = "walid"
-app_description = "Optical pos"
-app_email = "nachef.walid@gmail.com"
+app_publisher = "OctoSolution"
+app_description = "Optical App"
+app_email = "nachef@gmail.com"
 app_license = "mit"
 
 # Apps
