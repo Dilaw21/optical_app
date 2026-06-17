@@ -9,7 +9,7 @@ import PaymentPanel from "../components/PaymentPanel.vue" */
   <div class="grid grid-cols-3 gap-4 p-4 h-screen">
     
     <!-- LEFT: Client -->
-    <div class="col-span-1 border p-3">
+    <div class="col-span-3 border p-4 rounded bg-white shadow">
       <h2 class="text-lg font-bold mb-2">Client</h2>
       <ClientSearch />
     </div>
